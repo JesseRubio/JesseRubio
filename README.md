@@ -70,7 +70,7 @@ A junior at  <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston
 </p>
 
 
-Do ⭐️ my repository if you find my project interesting, at least your ⭐️ could make someone's day.
+Do ⭐️ my repository if you find my projects interesting, at least your ⭐️ could make someone's day.
 
 ---
 
