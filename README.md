@@ -24,8 +24,9 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
+    <li>Taking online CompTIA Security+ course to become certified for cyber security.</li>
     <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator and Procreate.</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li>Inquiring more about UX/UI.</li>
     <li>Working on two private repositories.</li>
@@ -35,7 +36,7 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
+  <summary> After the world was in the quarantine stage, and having tremendous of spare time, I took the time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
     <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
