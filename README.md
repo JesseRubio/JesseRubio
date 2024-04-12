@@ -21,13 +21,12 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the college. </summary>
+  <summary>I'm currently working on a couple of things. </summary>
   <ul>
     <br>
     <li>Taking online CompTIA Security+ course to become certified for cyber security.</li>
-    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator and Procreate.</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li>Creating more iOS Apps and websites to add to my portfolio and github.</li>
     <li>Inquiring more about UX/UI.</li>
     <li>Working on two private repositories.</li>
     <li>🔜</li>
