@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Jesse Rubio,
 
-A student at  <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, pursuing bachelor’s degree in Computer Science & Software Engineering.
+Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, with a bachelor’s degree in Computer Science & Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
