@@ -46,7 +46,10 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
   </ul>
 </details>
 
-
+**Certifications:**
+<p align="left">
+  <code><img src="https://www.credly.com/badges/d385ab35-be4e-4ab0-baf5-5c49dd7b8975/public_url"></code>
+</p>
 
 **Languages and Frameworks:**
 <p align="left">
