@@ -47,10 +47,7 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 </details>
 
 **Certifications:**
-<p align="left">
-<code><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d385ab35-be4e-4ab0-baf5-5c49dd7b8975" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</code>
-</p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d385ab35-be4e-4ab0-baf5-5c49dd7b8975" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 **Languages and Frameworks:**
 <p align="left">
