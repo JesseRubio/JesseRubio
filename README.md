@@ -48,11 +48,13 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 
 **Certifications:**
 <p align="left">
-  <code><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="ea3eec65-ddad-4242-9c59-1defac0fa2d9" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7" width="200" height="200" /></code>&nbsp;
+  <code><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="ea3eec65-ddad-4242-9c59-1defac0fa2d9" width="200" height="200" /></code>&nbsp;
 </p>
 
 **Languages and Frameworks:**
 <p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
