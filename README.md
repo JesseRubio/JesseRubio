@@ -17,28 +17,31 @@ Here are some ideas to get you started:
 
 ### I'm Jesse Rubio,
 
-Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, with a bachelor’s degree in Computer Science & Engineering.
+Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, with a bachelor’s degree in Computer Science & Engineering. Certified in Google Cybersecurity, Google Cloud Cybersecurity, and Google AI Essentials.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
   <summary>I'm currently working on a couple of things. </summary>
   <ul>
     <br>
-    <li>Taking online CompTIA Security+ course to become certified for cyber security.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator and Procreate.</li>
-    <li>Creating more iOS Apps and websites to add to my portfolio and github.</li>
+    <li>Taking online CompTIA Security+ course to become certified for Cybersecurity.</li>
+    <li>Learning more and honing my fundamental skills in Cybersecurity.</li>
+    <li>Completing as many CTF's from TryHackMe.</li>
+    <li>Expanding my knowledge in Python, SQL, SEIM Tools, and Linux.</li>
+<!--     <li>Creating more iOS Apps and websites to add to my portfolio and github.</li>
     <li>Inquiring more about UX/UI.</li>
-    <li>Working on two private repositories.</li>
+    <li>Working on two private repositories.</li> -->
     <li>🔜</li>
   </ul>
 </details>
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> After the world was in the quarantine stage, and having tremendous of spare time, I took the time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
+  <summary> Having a full time job and being a wanting a career change while being a father and husband hasn't been easy. So I try to take my spare time to feed myself with more knowledge. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
     <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li>Creating as many program's in Python in regards to Cybersecurity</li>
     <li>Avoid over using social media</li>
     <li>Read more books</li>
     <li>Adopting the minimalism life style</li>
@@ -54,10 +57,9 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 
 **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" atl="87" width="80 height="80" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" atl="87" width="80 height="80" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
