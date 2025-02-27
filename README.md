@@ -51,8 +51,9 @@ Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of
 
 **Certifications:**
 <p align="left">
-  <code><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7" width="200" height="200" /></code>&nbsp;
-  <code><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="ea3eec65-ddad-4242-9c59-1defac0fa2d9" width="200" height="200" /></code>&nbsp;
+  <code><a href="https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7" width="200" height="200" /></a></code>&nbsp;
+  <code><a href="https://coursera.org/share/387257f830a59e7f3c4c147c1a0e9ddc"><img src="https://images.credly.com/size/340x340/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" alt="" width="211" height="211" /></a></code>&nbsp;
+  <code><a href="https://coursera.org/share/2c11b915bd3783c083fd32d856722c0d"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="ea3eec65-ddad-4242-9c59-1defac0fa2d9" width="200" height="200" /></a></code>&nbsp;
 </p>
 
 **Languages and Frameworks:**
