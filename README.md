@@ -85,7 +85,7 @@ Do ⭐️ my repository if you find my projects interesting, at least your ⭐�
 
 <img src="https://komarev.com/ghpvc/?username=JesseRubio" alt="JesseRubio" />
 
-<details>
+<!-- <details>
   <summary>✨ Github Stats</summary>
   <br>
   <img align="left" alt="Jesse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jesserubio&show_icons=true&theme=dracula" />
@@ -98,7 +98,7 @@ Do ⭐️ my repository if you find my projects interesting, at least your ⭐�
   <br>
   <br>
   <br>
-</details>
+</details> -->
 <details>
   <summary>🔥 Top languages</summary>
   <br>
