@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> Having a full time job and being a wanting a career change while being a father and husband hasn't been easy. So I try to take my spare time to feed myself with more knowledge. I set a couple of self-challenges in order to push myself more further. </summary>
+  <summary> Having a full time job and wanting a career change into cybersecurity while being a father and husband hasn't been easy. So I try to take my spare time to feed myself with more knowledge. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
     <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
