@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Jesse Rubio,
 
-Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, with a bachelor’s degree in Computer Science & Engineering. Certified in Google Cybersecurity, Google Cloud Cybersecurity, and Google AI Essentials.
+<!-- Proud Alumnus of the <a href="https://www.uhd.edu/Pages/home.aspx">University of Houston-Downtown</a>, USA, with a bachelor’s degree in Computer Science & Engineering. Certified in Google Cybersecurity, Google Cloud Cybersecurity, and Google AI Essentials. -->
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
