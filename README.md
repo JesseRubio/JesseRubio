@@ -68,6 +68,13 @@ Here are some ideas to get you started:
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
 </p>
 
+**TryHackMe:**
+<p align="left">
+  <a href="https://tryhackme.com/p/Jesse.rubio">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jesse.rubio.png" alt="Your Image Badge" />
+  </a>
+</p>
+
 **Connect with me:**
 <p align="left">
   <a href="https://www.instagram.com/jessliftz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
