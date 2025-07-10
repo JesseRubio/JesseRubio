@@ -88,18 +88,18 @@ Here are some ideas to get you started:
 
 ---
 ## **🌟 Projects**
-- <a href="https://github.com/GenesisVarelli/Threat-Detection-Home-Lab">**Threat Detection Home Lab**</a>
-- <a href="https://github.com/GenesisVarelli/Cloud-Based-Threat-Detection-Home-Lab">**Cloud-Based: Threat Detection Home Lab**</a>
-- **[Network Scanning with Nmap](https://github.com/sumit48/Network-Scanning-with-Nmap)**  
+- **[Threat Detection Home Lab](https://github.com/jesserubio/Threat-Detection-Home-Lab)**
+- **[Cloud-Based: Threat Detection Home Lab](https://github.com/jesserubio/Cloud-Based-Threat-Detection-Home-Lab)**
+- **[Network Scanning with Nmap](https://github.com/jesserubio/Network-Scanning-with-NMap)**  
      To discover active devices, identify open ports, detect vulnerabilities, and assess the overall security posture of a network.
    
-- **[Integrated Phishing Analysis and Data Security Toolkit](https://github.com/sumit48/Integrated-Phishing-Analysis-and-Data-Security-Toolkit)**  
+- **[Integrated Phishing Analysis and Data Security Toolkit](https://github.com/jesserubio/Integrated-Phishing-Analysis-and-Data-Security-Toolkit)**  
       Integrated tools like CyberChef, VirusTotal, and John the Ripper to analyze phishing email attachments and URLs for security analysis.
 
-- **[Log Analysis and Threat Detection with Splunk](https://github.com/sumit48/Log-Analysis-and-Threat-Detection-with-Splunk)**
+- **[Log Analysis and Threat Detection with Splunk](https://github.com/jesserubio/Log-Analysis-and-Threat-Detection-with-Splunk)**
        Utilized Splunk for advanced log analysis, threat detection, and creating custom dashboards and alerts for SOC operations.
    
-- **[Web Security Vulnerability Identification and Remediation](https://github.com/sumit48/Web-Security-Vulnerability-Identification-and-Remediation)**
+- **[Web Security Vulnerability Identification and Remediation](https://github.com/jesserubio/Web-Security-Vulnerability-Identification-and-Remediation)**
      Focused on identifying and remediating critical vulnerabilities in web applications, including SSRF, XSS, and SQL injection.
 ---
 
