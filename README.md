@@ -97,7 +97,7 @@ Here are some ideas to get you started:
       Integrated tools like CyberChef, VirusTotal, and John the Ripper to analyze phishing email attachments and URLs for security analysis.
 
 - **[Log Analysis and Threat Detection with Splunk](https://github.com/jesserubio/Log-Analysis-and-Threat-Detection-with-Splunk)**
-       Utilized Splunk for advanced log analysis, threat detection, and creating custom dashboards and alerts for SOC operations.
+     Utilized Splunk for advanced log analysis, threat detection, and creating custom dashboards and alerts for SOC operations.
    
 - **[Web Security Vulnerability Identification and Remediation](https://github.com/jesserubio/Web-Security-Vulnerability-Identification-and-Remediation)**
      Focused on identifying and remediating critical vulnerabilities in web applications, including SSRF, XSS, and SQL injection.
