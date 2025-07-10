@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 
 ---
 
-### **📈 My Goals**   
+## 📈 My Goals
 ✅ Develop my cybersecurity skills and teach others who want to learn.
 ✅ Build a strong **GitHub portfolio** with cybersecurity-related projects & automation scripts.
 ✅ Stay ahead in **offensive & defensive security**.
+
+---
 
 ## **🛠️ Tools & Technologies**
 
