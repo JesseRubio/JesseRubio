@@ -106,10 +106,11 @@ Here are some ideas to get you started:
 ---
 
 ## **🎓Certifications**
-<p align="left">
-  <code><a href="https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7" width="160" height="160" /></a></code>&nbsp;
-  <code><a href="https://coursera.org/share/387257f830a59e7f3c4c147c1a0e9ddc"><img src="https://images.credly.com/size/340x340/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="" width="150" height="150" /></a></code>&nbsp;
-  <code><a href="https://coursera.org/share/2c11b915bd3783c083fd32d856722c0d"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="ea3eec65-ddad-4242-9c59-1defac0fa2d9" width="160" height="160" /></a></code>&nbsp;
+
+<p float="left">
+  <a href="https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160" /></a>
+  <a href="https://coursera.org/share/387257f830a59e7f3c4c147c1a0e9ddc"><img src="https://images.credly.com/size/340x340/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="160" /></a>
+   <a href="https://coursera.org/share/2c11b915bd3783c083fd32d856722c0d"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="160" /></a>
 </p>
 
 ---
