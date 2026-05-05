@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ---
 ## **🌟 Projects**
 - **[Threat Detection Home Lab](https://github.com/jesserubio/Threat-Detection-Home-Lab)**
-- **[Cloud-Based: Threat Detection Home Lab](https://github.com/jesserubio/Cloud-Based-Threat-Detection-Home-Lab)**
+- **[Cloud-Based: Threat Detection & Response Lab](https://github.com/JesseRubio/Cloud-Threat-Detection-Response-Lab)**
 - **[Network Scanning with Nmap](https://github.com/jesserubio/Network-Scanning-with-NMap)**  
      To discover active devices, identify open ports, detect vulnerabilities, and assess the overall security posture of a network.
    
