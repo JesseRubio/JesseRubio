@@ -1,111 +1,108 @@
-<!--
-**JesseRubio/JesseRubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jesse Rubio
 
-Here are some ideas to get you started:
+**Cybersecurity Analyst • iOS Developer • Detection Engineering • Security Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build secure systems, polished iOS apps, and hands-on cybersecurity labs focused on threat detection, incident response, cloud security, and automation.
 
-# Welcome 🙋🏻‍♂️
-
-### I'm Jesse Rubio,
- 
-🛡️SOC Analyst with 2+ years in threat investigation, SIEM tuning, and incident response across government, public, and SME environments. Experienced in QA testing for secure government applications, enhancing system reliability and security. Focused on blue team operations, improving threat detection, and staying ahead of evolving cyber threats.
+[Portfolio](https://www.jesserubio.com) • [LinkedIn](https://www.linkedin.com/in/rubiojesse) • [GitHub](https://github.com/JesseRubio)
 
 ---
 
-## 📘 Skills
+## About Me
 
-```Security Operations Center (SOC)``` ``` Cryptography & Encryption ``` ```Incident Response```
-```Penetration Testing``` ```Network Security``` ```Threat Hunting``` ```Vulnerability Management```
+I’m a Houston-based Cybersecurity Analyst and iOS Developer with hands-on experience across security operations, SIEM tooling, incident response, threat detection, Swift development, and App Store product launches.
+
+My work sits at the intersection of:
+
+- Security operations and detection engineering
+- Cloud threat detection and response
+- Python-based security automation
+- iOS development with Swift and SwiftUI
+- Product-focused mobile app design
+
+I enjoy building projects that are practical, well-documented, and connected to real-world security or product problems.
+
+---
+
+## Featured Projects
+
+### iOS Development
+
+#### [Twidddle – Countdown App](https://apps.apple.com/us/app/twidddle/id6759264332)
+A modern iOS countdown app designed to help users track events, customize views, add notes, and use Home Screen widgets.
+
+**Focus:** Swift, SwiftUI, Widgets, App Store, Product Design
 
 ---
 
-## 📈 My Goals
-✅ Develop my cybersecurity skills and teach others who want to learn.
-✅ Build a strong **GitHub portfolio** with cybersecurity-related projects & automation scripts.
-✅ Stay ahead in **offensive & defensive security**.
+#### [Klima – Weather App](https://github.com/JesseRubio/Klima)
+A modern iOS weather app focused on clean architecture, API integration, responsive UI, and mobile development best practices.
+
+**Focus:** Swift, SwiftUI, REST APIs, iOS Architecture
 
 ---
 
-## **🛠️ Tools & Technologies**
+#### [SubX Timer](https://apps.apple.com/us/app/subx-timer/id6479374382)
+A professional timing app designed for Rubik’s Cube speedsolvers. It provides scramble algorithms, statistics, time-split timing, unlimited sessions, and support for multiple twisty puzzles.
 
-### Cloud & Virtualization
- [![AWS](https://img.shields.io/badge/AWS-0078D7?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
- [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
- [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-### Automation & Scripting
- [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
- [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
- ### Cybersecurity Tools 
-### Threat Detection & Response
- [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
- [![Wazuh](https://img.shields.io/badge/Wazuh-7046A5?style=flat&logo=wazuh&logoColor=white)](https://wazuh.com/)
- [![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/elk-stack)
- [![EDR](https://img.shields.io/badge/EDR-FF4F00?style=flat)](https://example.com/)
- [![XDR](https://img.shields.io/badge/XDR-F54291?style=flat)](https://example.com/)
-### Network Security
- [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
- [![TCPDump](https://img.shields.io/badge/TCPDump-4D4D4D?style=flat)](https://www.tcpdump.org/)
- [![Nmap](https://img.shields.io/badge/Nmap-589636?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
- [![Zeek](https://img.shields.io/badge/Zeek-005489?style=flat)](https://zeek.org/)
- [![Network Analysis](https://img.shields.io/badge/Network_Analysis-FFC107?style=flat)](https://example.com/)
-### Security Operations
- [![SOAR](https://img.shields.io/badge/SOAR-FF5733?style=flat)](https://example.com/)
- [![SIEM](https://img.shields.io/badge/SIEM-7F00FF?style=flat)](https://example.com/)
- [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-7E4B3C?style=flat)](https://portswigger.net/burp)
- [![Threat & Vulnerability Management](https://img.shields.io/badge/Threat_&_Vulnerability_Management-1ABC9C?style=flat)](https://example.com/)
-### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" >
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-</p>
-
-### **Frameworks, Platforms and Libraries**
-<p align="left">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Node Package Management" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/FastApi-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### **Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+**Focus:** Swift, Timing Logic, Statistics, Mobile UX
 
 ---
-## **🌟 Projects**
-- **[Threat Detection Home Lab](https://github.com/jesserubio/Threat-Detection-Home-Lab)**
-- **[Cloud-Based: Threat Detection & Response Lab](https://github.com/JesseRubio/Cloud-Threat-Detection-Response-Lab)**
-- **[Network Scanning with Nmap](https://github.com/jesserubio/Network-Scanning-with-NMap)**  
-     To discover active devices, identify open ports, detect vulnerabilities, and assess the overall security posture of a network.
-   
-- **[Integrated Phishing Analysis and Data Security Toolkit](https://github.com/jesserubio/Integrated-Phishing-Analysis-and-Data-Security-Toolkit)**  
-      Integrated tools like CyberChef, VirusTotal, and John the Ripper to analyze phishing email attachments and URLs for security analysis.
 
-- **[Log Analysis and Threat Detection with Splunk](https://github.com/jesserubio/Log-Analysis-and-Threat-Detection-with-Splunk)**
-     Utilized Splunk for advanced log analysis, threat detection, and creating custom dashboards and alerts for SOC operations.
-   
-- **[Web Security Vulnerability Identification and Remediation](https://github.com/jesserubio/Web-Security-Vulnerability-Identification-and-Remediation)**
-     Focused on identifying and remediating critical vulnerabilities in web applications, including SSRF, XSS, and SQL injection.
+### Cybersecurity
+
+#### [Cloud Threat Detection & Response Lab](https://github.com/JesseRubio/Cloud-Threat-Detection-Response-Lab)
+A hands-on AWS security lab simulating suspicious cloud activity, collecting CloudTrail and GuardDuty telemetry, building detection logic, and triggering automated response workflows.
+
+**Focus:** AWS, CloudTrail, GuardDuty, EventBridge, Lambda, Detection Engineering
+
 ---
 
-## **🎓Certifications**
+#### [EDR Home Lab – Threat Detection & SIEM Engineering](https://github.com/JesseRubio/Threat-Detection-Home-Lab)
+A hands-on detection lab using SIEM tooling, endpoint telemetry, and simulated attacks to validate alerts and improve investigation workflows.
+
+**Focus:** ELK Stack, Wazuh, Suricata, Threat Detection, Alert Validation
+
+---
+
+#### [Automated Incident Response](https://github.com/JesseRubio/AIR)
+A Python-based incident response automation project aligned to NIST-style security workflows for detection, evidence collection, and response support.
+
+**Focus:** Python, NIST, Incident Response, Automation
+
+---
+
+#### [Malware Behavior & Detection Analysis](https://github.com/JesseRubio/Malware-Behavior-and-Detection-Analysis)
+A defensive security research project analyzing malware behavior, data exfiltration techniques, and detection opportunities across endpoint systems.
+
+**Focus:** Python, Malware Analysis, Threat Detection, Defensive Research
+
+---
+
+## Technical Focus
+
+### Cybersecurity
+`SIEM` `Threat Detection` `Incident Response` `Threat Hunting` `Cloud Security` `Vulnerability Management` `Security Automation`
+
+### Tools & Platforms
+`ELK Stack` `Wazuh` `Suricata` `Wireshark` `Splunk` `AWS` `CloudTrail` `GuardDuty` `Burp Suite`
+
+### Development
+`Python` `Swift` `SwiftUI` `UIKit` `Bash` `REST APIs` `GitHub` `HTML` `CSS` `JavaScript`
+
+---
+
+## Currently Building
+
+- Cloud Threat Detection & Response Lab
+- Twidddle iOS product improvements
+- SIEM detection engineering projects
+- Python-based security automation tools
+- Apple-style personal portfolio system
+
+---
+
+## Certifications
 
 <p float="left">
   <a href="https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160" /></a>
@@ -113,28 +110,25 @@ Here are some ideas to get you started:
    <a href="https://coursera.org/share/2c11b915bd3783c083fd32d856722c0d"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="160" /></a>
 </p>
 
+- OSCP — In Progress
+- OSWP — In Progress
+
 ---
 
-### **TryHackMe**
-<p align="left">
-  <a href="https://tryhackme.com/p/Jesse.rubio">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jesse.rubio.png" alt="Your Image Badge" />
-  </a>
-</p>
+## TryHackMe
 
-Do ⭐️ my repository if you find my projects interesting, at least your ⭐️ could make someone's day.
+[TryHackMe Profile](https://tryhackme.com/p/Jesse.rubio)
 
-<img src="https://komarev.com/ghpvc/?username=JesseRubio" alt="JesseRubio" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jesse.rubio.png" alt="TryHackMe Badge" />
 
-<details>
-  <summary>🔥 Top languages</summary>
-  <br>
-  <img align="left" alt="Jesse's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesserubio&theme=dracula" /> <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</details>
+---
+
+## Connect
+
+**Portfolio:** [jesserubio.com](https://www.jesserubio.com)  
+**LinkedIn:** [linkedin.com/in/rubiojesse](https://www.linkedin.com/in/rubiojesse)  
+**GitHub:** [github.com/JesseRubio](https://github.com/JesseRubio)
+
+---
+
+Building secure systems, useful tools, and polished iOS experiences.
