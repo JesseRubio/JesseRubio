@@ -1,4 +1,6 @@
-# Jesse Rubio
+# Welcome 🙋🏻‍♂️
+
+### I'm Jesse Rubio,
 
 **Cybersecurity Analyst • iOS Developer • Detection Engineering • Security Automation**
 
@@ -24,7 +26,7 @@ I enjoy building projects that are practical, well-documented, and connected to 
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 ### iOS Development
 
@@ -79,7 +81,7 @@ A defensive security research project analyzing malware behavior, data exfiltrat
 
 ---
 
-## Technical Focus
+## 🛠️ Technical Focus
 
 ### Cybersecurity
 `SIEM` `Threat Detection` `Incident Response` `Threat Hunting` `Cloud Security` `Vulnerability Management` `Security Automation`
@@ -102,7 +104,7 @@ A defensive security research project analyzing malware behavior, data exfiltrat
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
 <p float="left">
   <a href="https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160" /></a>
