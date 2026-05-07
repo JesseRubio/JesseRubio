@@ -28,7 +28,7 @@ I enjoy building projects that are practical, well-documented, and connected to 
 
 ## 🌟 Featured Projects
 
-### iOS Development
+### 📱 iOS Development
 
 #### [Twidddle – Countdown App](https://apps.apple.com/us/app/twidddle/id6759264332)
 A modern iOS countdown app designed to help users track events, customize views, add notes, and use Home Screen widgets.
@@ -51,7 +51,7 @@ A professional timing app designed for Rubik’s Cube speedsolvers. It provides 
 
 ---
 
-### Cybersecurity
+### 🔒 Cybersecurity
 
 #### [Cloud Threat Detection & Response Lab](https://github.com/JesseRubio/Cloud-Threat-Detection-Response-Lab)
 A hands-on AWS security lab simulating suspicious cloud activity, collecting CloudTrail and GuardDuty telemetry, building detection logic, and triggering automated response workflows.
@@ -94,7 +94,7 @@ A defensive security research project analyzing malware behavior, data exfiltrat
 
 ---
 
-## Currently Building
+## ⚙️ Currently Building
 
 - Cloud Threat Detection & Response Lab
 - Twidddle iOS product improvements
@@ -125,7 +125,7 @@ A defensive security research project analyzing malware behavior, data exfiltrat
 
 ---
 
-## Connect
+## 🔗 Connect
 
 **Portfolio:** [jesserubio.com](https://www.jesserubio.com)  
 **LinkedIn:** [linkedin.com/in/rubiojesse](https://www.linkedin.com/in/rubiojesse)  
